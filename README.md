@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DongHyun Kim
+#👋 Hi, I’m DongHyun Kim
 - 👀 I’m interested in Computer Graphics, Realistic Rendering, Character Animation and Deep Learning
 - 🌱 I’m currently learning CS
 
